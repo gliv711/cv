@@ -1,0 +1,12 @@
+.header {
+    position: fixed; /* Fixed position at the top */
+    top: 0; /* Stick to the top */
+    width: 100%; /* Full width */
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    z-index: 1000; /* Set a high z-index to ensure it appears above other content */
+    /* Add padding, margin, and other styles as needed */
+  }
+  .main-content{
+    margin-top: 60px;
+  }
